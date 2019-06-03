@@ -1,0 +1,2 @@
+# geneExonCov
+本软件名为geneExonCov，目的是获取样本在基因和外显子的质控情况
